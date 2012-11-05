@@ -11,7 +11,7 @@
             <li>boohaa!!!</li>
             <li>BOOOHAAA!!</li>
         </ul>
-        
+        <span>notes:stuff</span>
         <span>ingredients list</span>
         <p>List</p>
         
